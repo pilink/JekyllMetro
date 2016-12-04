@@ -7,7 +7,7 @@ highlighter: pygments
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Jekyll Metro'
+title:            'Pi Link'
 tagline:          'A Metro theme for Jekyll'
 description:      'A Sample blog using Jekyll Metro'
 url:              'http://192.168.1.11:4000'
@@ -30,21 +30,21 @@ navigation:
 
 
 # Author Details
-author:         'Abdel Raoof Olakara'
+author:         'Safouen Ferchichi'
 
 #Social Media links (Use complete URL except for email)
 dribbble:
 email:
-facebook:       'https://www.facebook.com/olakara'
+facebook:       '#'
 flickr:
-github:         'https://github.com/olakara'
-gplus:          'https://plus.google.com/100425464897246255887/'
+github:         'https://github.com/pilink'
+gplus:          '#'
 instagram:
 pinterest:
-linkedin:       'https://ae.linkedin.com/in/olakara/'
+linkedin:       'https://fr.linkedin.com/in/safouen-ferchichi-44186060'
 rss:
-stackoverflow:  'http://stackoverflow.com/users/185655/abdel-raoof'
-twitter:        'https://twitter.com/olakara'
+stackoverflow:  'http://stackoverflow.com/users/5684272/safouen-ferchichi'
+twitter:        '#'
 
 # Google Analytics
 gahandler: 'UA-52149651-1'
