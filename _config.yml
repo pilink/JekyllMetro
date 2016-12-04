@@ -10,10 +10,10 @@ permalink:        /blog/:year/:month/:day/:title
 title:            'Pi Link'
 tagline:          'A Metro theme for Jekyll'
 description:      'A Sample blog using Jekyll Metro'
-url:              ''
-baseurl:          ''
-port:    '8080'
-host:    127.0.0.1
+url:              'https://pilink.github.io'
+baseurl:          'https://pilink.github.io'
+#port:    '8080'
+#host:    127.0.0.1
 
 # Navigation
 navigation:

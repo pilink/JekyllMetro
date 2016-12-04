@@ -3,10 +3,10 @@
   <channel>
     <title>Pi Link</title>
     <description>A Sample blog using Jekyll Metro</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 04 Dec 2016 20:37:57 +0100</pubDate>
-    <lastBuildDate>Sun, 04 Dec 2016 20:37:57 +0100</lastBuildDate>
+    <link>https://pilink.github.iohttps://pilink.github.io/</link>
+    <atom:link href="https://pilink.github.iohttps://pilink.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 04 Dec 2016 22:00:20 +0100</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2016 22:00:20 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
   </channel>
