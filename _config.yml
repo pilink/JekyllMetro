@@ -9,7 +9,7 @@ permalink:        /blog/:year/:month/:day/:title
 # Setup
 title:            'veoPi'
 tagline:          'A Metro theme for Jekyll'
-description:      'A Sample blog using Jekyll Metro'
+description:      'veoPi'
 url:              ''
 baseurl:          ''
 port:    '4000'
@@ -37,25 +37,25 @@ author:         'Safouen Ferchichi'
 #Social Media links (Use complete URL except for email)
 dribbble:
 email:
-facebook:       '#'
+facebook:       'https://www.facebook.com/veopi/'
 flickr:
 github:         'https://github.com/veopi'
 gplus:          '#'
-instagram:
+instagram:      'https://www.instagram.com/veopi/'
 pinterest:
 linkedin:       'https://fr.linkedin.com/in/safouen-ferchichi-44186060'
 rss:
 stackoverflow:  'http://stackoverflow.com/users/5684272/safouen-ferchichi'
-twitter:        '#'
+twitter:        'https://twitter.com/veo_pi'
 
 # Google Analytics
-gahandler: 'UA-52149651-1'
+gahandler: 'UA-89712528-1'
 
 #if footersvg is 'true' the social media links will be shown top on the copy right in the footer
 footersvg: 'true'
 
 # Disqus
-disqushandler: 'testingblogo'
+disqushandler: 'veopi'
 
 # Blog Configurations
 paginate: 10 # Posts per page on the blog index
