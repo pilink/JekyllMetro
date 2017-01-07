@@ -21,22 +21,6 @@
     
     
     <url>
-        <loc>http://localhost:4000/search/</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
         <loc>http://localhost:4000/blog/</loc>
     </url>
     
@@ -45,23 +29,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/archive/</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/tags/</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/tags/SharePoint/</loc>
+        <loc>http://localhost:4000/</loc>
     </url>
     
     

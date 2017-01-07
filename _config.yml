@@ -7,10 +7,10 @@ highlighter: pygments
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'veoPi'
-tagline:          'A Metro theme for Jekyll'
+title:            'Safouen FERCHICHI'
+tagline:          'VeoPi'
 description:      'veoPi'
-url:              ''
+url:              'http://veopi.com'
 baseurl:          ''
 port:    '4000'
 
@@ -21,32 +21,24 @@ navigation:
   url: /about/
 - text: Resume
   url: /resume/
-- text: Blog
-  url: /blog/
-- text: Tags
-  url: /tags/
-- text: Archive
-  url : /archive/
-- text: Search
-  url: /search/
-
 
 # Author Details
 author:         'Safouen Ferchichi'
 
 #Social Media links (Use complete URL except for email)
 dribbble:
-email:
-facebook:       'https://www.facebook.com/veopi/'
+email:          'safouen.ferchichi@gmail.com'
+facebook:       'https://www.facebook.com/veopi'
 flickr:
 github:         'https://github.com/veopi'
 gplus:          '#'
-instagram:      'https://www.instagram.com/veopi/'
+instagram:      'https://www.instagram.com/veopi'
 pinterest:
 linkedin:       'https://fr.linkedin.com/in/safouen-ferchichi-44186060'
 rss:
 stackoverflow:  'http://stackoverflow.com/users/5684272/safouen-ferchichi'
 twitter:        'https://twitter.com/veo_pi'
+blog:           'https://safouenferchichi.wordpress.com'
 
 # Google Analytics
 gahandler: 'UA-89712528-1'
