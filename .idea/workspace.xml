@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02ebb3c5-dc19-4a80-9b54-2e4a9bfe1b31" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/archive/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/bcg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/bcg3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/bcg4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/bcg5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/search/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tags/SharePoint/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tags/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/bcg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/bcg3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/bcg4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/bcg5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/search/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags/SharePoint/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/images/favicon-128.png" afterPath="$PROJECT_DIR$/_site/assets/images/favicon-128.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/images/favicon-16.ico" afterPath="$PROJECT_DIR$/_site/assets/images/favicon-16.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/assets/images/favicon-16.png" afterPath="$PROJECT_DIR$/_site/assets/images/favicon-16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon-128.png" afterPath="$PROJECT_DIR$/assets/images/favicon-128.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon-16.ico" afterPath="$PROJECT_DIR$/assets/images/favicon-16.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/favicon-16.png" afterPath="$PROJECT_DIR$/assets/images/favicon-16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/logo_md.png" afterPath="$PROJECT_DIR$/assets/images/logo_md.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/analytics.html" afterPath="$PROJECT_DIR$/_includes/analytics.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/404.html" afterPath="$PROJECT_DIR$/_site/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="$PROJECT_DIR$/_site/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/index.html" afterPath="$PROJECT_DIR$/_site/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/resume/index.html" afterPath="$PROJECT_DIR$/_site/resume/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="$PROJECT_DIR$/_site/sitemap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.md" afterPath="$PROJECT_DIR$/about/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
     </list>
     <ignored path="mysite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -172,7 +131,7 @@
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.41034484">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -191,6 +150,7 @@
         <option value="$PROJECT_DIR$/about/index.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
       </list>
     </option>
   </component>
@@ -350,7 +310,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22767204" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -617,7 +577,7 @@
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41034484">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
           <folding />
         </state>
       </provider>
