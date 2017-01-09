@@ -10,8 +10,8 @@ permalink:        /blog/:year/:month/:day/:title
 title:            'Safouen FERCHICHI'
 tagline:          'VeoPi'
 description:      'veoPi'
-url:              'https://veopi.github.io/mysite/'
-baseurl:          ''
+url:              'https://veopi.github.io/mysite'
+baseurl:          '/mysite'
 port:    '4000'
 
 
